@@ -17,4 +17,6 @@ Topics covered include:
 
 # How to run
 
-As a side note, I created and ran the queries in PostgreSQL so the constructs conform to that database. However, any other relational database engine such as SQLite3 will run 99% of the queries without a problem. Downloading any of these for SQL coding practice is highly recommended.
+Download a non=proprietary SQL-enabled database e.g. PostgreSQL, MySQL or SQLite, open the query shell and run each section of commands in college_sql_practice separately to see the results.
+
+As a side note, I created and ran the queries in PostgreSQL so the constructs conform to that database. However, any other relational database engine such as SQLite3 will run 99% of the queries without a problem. Downloading any of these for SQL coding practice is highly recommended. Proprietary databases e.g Microsoft SQL Server will be largely fine but may be incompatible with some constructs which may not be congruent to their flavour of SQL (e.g. Transact-SQL for MS SQL Server).
